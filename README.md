@@ -1,4 +1,4 @@
-<h1>MoodMusic<h1>
+<h1>MoodMusic</h1>
     <hr>
 
 
