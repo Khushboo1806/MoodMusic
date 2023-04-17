@@ -1,4 +1,5 @@
-MoodMusic
+<h1>MoodMusic<h1>
+    <hr>
 
 
 This is MoodMusic developed by-
