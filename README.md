@@ -5,7 +5,7 @@
 This is MoodMusic developed by-
 1. **Chetali Pushkarna** (https://github.com/Chetalipushkarna) 
 2. **Vaishali Agarwal** () 
-3. **Jasmeen Kaur** ()  
+3. **Jasmeen Kaur** (https://github.com/Jaskaur2003)  
 4. **Khushboo** (https://github.com/Khushboo1806)
 
 -----------------------------------------------------------------
